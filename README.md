@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I'm Mathieu, mobile developer !
 
 <p>
   <img align="center"
