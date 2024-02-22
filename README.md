@@ -12,7 +12,7 @@ Welcome to my GitHub! 👨‍💻 I'm passionate about mobile development, with 
 I spend most of my time crafting Android apps with a keen focus on user experience and performance.
 
 #### Tech Stack
-- 🚀 Android (Kotlin/Java)
+- 🚀 Android (Kotlin/JetpackCompose/MVVM/CleanArchitecture/Java)
 - 🌈 Always open to exploring new languages and frameworks.
 - 💡 Eager to learn and adapt to the ever-evolving tech landscape.
 
