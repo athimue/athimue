@@ -16,13 +16,8 @@ I spend most of my time crafting Android apps with a keen focus on user experien
 - 🌈 Always open to exploring new languages and frameworks.
 - 💡 Eager to learn and adapt to the ever-evolving tech landscape.
 
-#### Fun Facts
-- 🔍 Constantly on the lookout for new languages and technologies to broaden my skill set.
-- 🚀 Passionate about discovering innovative ways to solve real-world problems through mobile applications.
-- 📚 Currently diving deep into Jetpack Compose and Flutter.
-
 #### Let's Connect
-Feel free to explore my repositories and reach out for collaboration, discussions, or just to share some interesting tech insights. Let's build and learn together! 🌟
+Feel free to explore my repositories. Let's build and learn together! 🌟
 
 Happy coding! 🚀✨
 
