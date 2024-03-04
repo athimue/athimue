@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Mathieu
+### Hi there, I'm Mathieu 👋
 
 Welcome to my GitHub! 👨‍💻 I'm passionate about mobile development, with a specialization in the Android platform. 🚀
 
