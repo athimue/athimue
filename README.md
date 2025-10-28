@@ -8,5 +8,5 @@
 </p>
 <br>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=athimue&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="adam-pw">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=athimue&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="adam-pw">
 </p>
